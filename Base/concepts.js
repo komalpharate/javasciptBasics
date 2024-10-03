@@ -1,6 +1,6 @@
 
 
-//Lexacal environment
+//Lexical environment
 function outer(name){
     //name='komal';
     console.log("Outer fun:", name);
@@ -26,7 +26,7 @@ function example() {
     console.log(x); // Error: x is not defined
 }
 
-//example();
+//example();    
 //Const ##############################################
 function example2() {
     const y = 20;

@@ -67,7 +67,7 @@ function closureSetTimeout(){
         console.log("Namaste Javascript");
     }
 }
-//closureSetTimeout();
+closureSetTimeout();
 
 //seTimeout functions using var
 function closureSetTimeout2(){
@@ -78,7 +78,7 @@ function closureSetTimeout2(){
         console.log("Namaste Javascript");
     }
 }
-// closureSetTimeout2();
+closureSetTimeout2();
 
 //seTimeout functions using let
 function useVarinSettimeout(){
